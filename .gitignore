@@ -1,0 +1,15 @@
+docroot/core
+docroot/libraries
+docroot/modules/contrib
+docroot/sites/*/settings.local.php
+docroot/sites/*/services*.yml
+docroot/sites/*/files
+docroot/sites/*/private
+docroot/themes/contrib
+docroot/vendor
+.sass-cache
+config.rb
+/nbproject/private/
+/config/default/log.txt
+/nbproject/project.properties
+/nbproject/project.xml
